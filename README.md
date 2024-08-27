@@ -1,7 +1,7 @@
 # To be or not to be, that's the question!
 
 ## 📒 Descrição
-Projeto para o curso de fundamentos de inteligência artificial da DIO. Foi pedido um título extremamente aesthetic que a ia generativa correspondeu a: O **"Título do Projeto Extremamente Aesthetic"** parece ser uma brincadeira ou ironia no mundo de desenvolvimento, referindo-se a um projeto de IA com foco na geração de arte e conteúdo visual. Esses projetos geralmente exploram tecnologias de IA para criar imagens estéticas e atraentes automaticamente, muitas vezes utilizando ferramentas como geradores de imagens. É um exemplo prático de como IA pode ser aplicada na criação de conteúdos visuais, simplificando processos artísticos e criativos【11†source】.
+Projeto para o curso de fundamentos de inteligência artificial da DIO. Foi pedido um título extremamente aesthetic que a ia generativa correspondeu a: O **"Título do Projeto Extremamente Aesthetic"** parece ser uma brincadeira ou ironia no mundo de desenvolvimento, referindo-se a um projeto de IA com foco na geração de arte e conteúdo visual. Esses projetos geralmente exploram tecnologias de IA para criar imagens estéticas e atraentes automaticamente, muitas vezes utilizando ferramentas como geradores de imagens. É um exemplo prático de como IA pode ser aplicada na criação de conteúdos visuais, simplificando processos artísticos e criativos.
 
 ## 🤖 Tecnologias Utilizadas
 Foi utilizado chatgpt no aplicativo pelo celular! Somente.
@@ -45,7 +45,7 @@ Com o avanço da IA, a criação de conteúdo "not natty" se tornará **cada vez
 
 No futuro, pode ser que a sociedade se torne mais aberta à ideia de que **IA e seres humanos podem trabalhar juntos** para criar conteúdo de alta qualidade. Assim como no fisiculturismo, onde o público tem opiniões diferentes sobre o uso de substâncias, o mesmo pode acontecer com a IA: alguns irão valorizar o conteúdo puramente humano, enquanto outros verão as criações assistidas por IA como uma forma válida e inovadora de expressão.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Interessante como consegui completar o desafio somente usando o celular, sem pesquisa na internet. Até mesmo perguntas sobre como desenvolver o projeto utilizei o chatgpt para isso! 
 Refletindo sobre a criação de um texto por um modelo gerativo como a IA, percebemos que o processo de associação de ideias é central para que o resultado faça sentido. Ao adaptar conceitos de um campo, como "natty or not" do fisiculturismo, para outro, como a criação de conteúdo por IA, o modelo utiliza padrões linguísticos e dados pré-existentes para gerar analogias e conexões coerentes. Isso evidencia como a IA simula a criatividade humana, estruturando o texto de forma lógica e coesa, apesar de depender de informações passadas e padrões estabelecidos.
 A experiência de criar algo com IA é, ao mesmo tempo, eficiente e reflexiva. Embora o modelo baseie-se em grandes volumes de dados, o toque humano ainda é crucial para guiar a narrativa, ajustar nuances e garantir que o conteúdo final tenha o impacto desejado. Isso nos leva a ponderar: até que ponto podemos considerar a criação "natty" quando IA faz parte do processo?
